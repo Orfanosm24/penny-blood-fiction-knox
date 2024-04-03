@@ -1,0 +1,104 @@
+/***/
+/* imports specific fonts from Google Fonts - go to google to select more fontso*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/* ========================================================================== */
+/*Fonts, colors, etc. of the page and text. This is the default for the site unless more specific styles are applied*/
+body {
+	background: #ffffff;
+	font-size:22px;
+	line-height: 32px;
+	color: #000;
+	margin: 0;
+	padding: 0;
+	word-wrap:break-word !important;
+	font-family: "Montserrat", sans-serif;
+	}
+/* ========================================================================== */
+/*Sets the width and margins for the main area of the page*/	
+div.main-container {
+	margin-top: 9rem;
+	margin-right:auto;
+	margin-left:auto;
+	max-width: 1200px;
+	} 
+/* ========================================================================== */
+/*Header and paragraph styles*/
+h1 {
+	font-size: 30px;
+	text-align: left;
+	color: #000000;
+	padding-left:20px;
+	}	
+
+h2 {
+	font-size: 26px;
+	line-height: 34px;
+	text-align: left;
+	color: #000000;
+	padding-left:20px;
+	}
+
+h3 {
+	font-size: 22px;
+	line-height: 34px;
+	text-align: left;
+	color: #000000;
+	padding-left:20px;
+	}
+
+p {
+	font-size:18px;
+	text-align: left;
+	max-width:1200px;
+	padding-right:20px;
+	padding-left:20px;
+	margin-right:auto;
+	margin-left:auto;
+	}
+/* ========================================================================== */
+/*footer styles*/
+footer {
+	margin-left: 7rem;
+	margin-right: 7rem;
+	margin-top: 30px;
+	} 
+  
+p.footer{
+	font-family: "Montserrat", sans-serif;
+	text-align: center;
+	}
+
+/* ========================================================================== */
+/*Link styles*/
+a {
+	color: #FFF;
+}
+
+a:hover {
+	color: rgb(248, 86, 167);
+}
+
+/* ========================================================================== */
+/*Image size and formatting*/
+
+/*Image style for large centered image*/
+img.home-imgage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  max-width:1100px;
+  width:100%;
+  height: auto;
+}
+/*Causes the image to shrink when the window is reduced in size*/
+/*.image {
+    flex-shrink: 0;
+}*/
+/* ========================================================================== */
+/*text formatting for TEI components -- to be added once the TEI has been converted in the HTML*/
+
+
+  
