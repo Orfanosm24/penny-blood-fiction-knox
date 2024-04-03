@@ -1,0 +1,251 @@
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Knox’s Statement on the Burke and Hare Murders</title>
+            </titleStmt>
+            <publicationStmt>
+                <!-- This is where you put information about the digital edition you're creating -->
+                <publisher>Marry Ann Orfanos</publisher>
+                <pubPlace>Boston College</pubPlace>
+                <availability>
+                    <p>Educational Use Permitted: This Item is protected by copyright and/or related
+                        rights. You are free to use this Item in any way that is permitted by the
+                        copyright and related rights legislation that applies to your use. In
+                        addition, no permission is required from the rights-holder(s) for
+                        educational uses. For other uses, you need to obtain permission from the
+                        rights-holder(s).</p>
+                    <p>https://rightsstatements.org/page/InC-EDU/1.0/?language=en</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- This is where you put information about the source you're digitizing -->
+                <bibl>
+                    <title>Communication from Dr Knox.</title>
+                    <author>Robert Knox</author>
+                    <publisher>Caledonian Mercury</publisher>
+                    <date when="1829-03-21">Saturday, March 21, 1829</date>
+                    <biblScope unit="issue">No. 16,782</biblScope>
+                    <note>Digital Access available on Gale's <hi rend="italic">British Library
+                            Newspapers</hi></note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <!-- This is an optional element where you should put information about the encoding choices you made -->
+            <projectDesc>
+                <p>This particular letter was transcribed in an effort to elucidate a number of
+                    claims Knox made to insist on his innocence, and instead clarify the extent of his complicity in the Burke and Hare
+                    murders. </p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Much of these annotations provide evidence, historical context, or biographical
+                    details that better inform the reader as to the circumstances surrounding Knox.</p>
+            </editorialDecl>
+            <tagsDecl/>
+        </encodingDesc>
+
+        <profileDesc>
+            <!-- This is an optional element where you can put non-bibliographic (usually contextual) information about the source you're digitizing -->
+            <creation><date/></creation>
+        </profileDesc>
+
+        <revisionDesc>
+            <!-- This is where you keep track of the changes you make to your file -->
+            <change who="Marry Ann" when="2024-04-02"> Cleaned up the file metadata, making finishing touches/preparations</change>
+            <change who="Marry Ann" when="2024-03-29"> Added footnotes</change>
+            <change who="Marry Ann" when="2024-03-27">Added horbars</change>
+            <change who="Marry Ann" when="2024-02-28"> Created metadata</change>
+            <change who="Marry Ann" when="2024-02-21"> Created file, added transcription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>Communication from Dr Knox</head>
+            <milestone unit="undefined" rend="horbar-short"/>
+            <div1>
+                <opener> To the Editor of the ‘Caledonian Mercury.'<ref target="#n01"/> </opener>
+                <p>Sir,&#8212;I regret troubling either you or the public with anything personal,
+                    but I cannot be insensible of the feelings of my friends, or of the character of
+                    the profession to which I have the honour of belonging. Had I alone been
+                    concerned, I should never have thought of obtruding on the public by this
+                    communication.</p>
+                <p>I have a class of above 400 pupils.<ref target="#n02"/> No person can be at the head of such an
+                    establishment without necessarily running the risk of being imposed upon by
+                    those who furnish the material of their science to anatomical teachers ; and,
+                    accordingly, there is hardly any such person who has not occasionally incurred
+                    odium or suspicion from his supposed accession to those violations of the law,
+                    without which anatomy can scarcely now be practised.<ref target="#n03"/> That I should have become
+                    an object of popular prejudice, therefore, since mine happened to be the
+                    establishment with which Burke and Hare chiefly dealt, was nothing more than
+                    what I had to expect. But if means had not been purposely taken, and most keenly
+                    persevered in, to misrepresent facts and to inflame the public mind, that
+                    prejudice would at least have stood on right ground, and would ultimately have
+                    passed away<ref target="#n04"/>, by its being seen that I had been exposed to a mere misfortune
+                    which would almost certainly have occurred to anybody else who had been in my
+                    situation.<ref target="#n05"/> </p>
+                <p> But every effort has been employed to convert my misfortune into positive and
+                    intended personal guilt of the most dreadful character. Scarcely any individual
+                    has ever been the object of more systematic or atrocious attacks than I have
+                    been. Nobody acquainted with this place requires to be told from what quarter
+                    these have proceeded.<ref target="#n06"/></p>
+                <p> I allowed them to go on for months without taking the slightest notice of them<ref target="#n07"/> ;
+                    and I was inclined to adhere to this system, especially as the public
+                    authorities by never charging me with any offence, gave the only attestation
+                    they could that they had nothing to charge me with. But my friends interfered
+                    for me. <hi rend="italic">Without consulting me,</hi> they directed an agent to
+                    institute the most rigid and unsparing examination into the facts. I was totally
+                    unacquainted with this gentleman ; but I understood that in naming Mr. Ellis
+                    they named a person whose character is a sufficient pledge for the propriety of
+                    his proceedings.</p>
+                <p> The result of his inquiries was laid before the Dean of Faculty and another
+                    Counsel, who were asked what ought to be done. These gentlemen gave it as their
+                    opinion that the evidence was completely satisfactory, and that there was no
+                    want of actionable matter, but that there was one ground on which it was my duty
+                    to resist the temptation of going into a court of law. This was, that the
+                    disclosures of the most innocent proceedings even of the best-conducted
+                    dissecting-room must always shock the public and be hurtful to science. But they
+                    recommended that a few persons of undoubted weight and character should be asked
+                    to investigate the matter, in order that, if I deserved it, an attestation might
+                    be given to me which would be more satisfactory to my friends than any mere
+                    statements of mine could be expected to be. This led to the formation of a
+                    Committee, which was never meant by me to be anything but private. But the fact
+                    of its sitting soon got into the newspapers, and hence the necessity under which
+                    I am placed of explaining how that proceeding, in which the public has been made
+                    to take an interest, has terminated.</p>
+                <p> I have been on habits of friendship with some of the Committee ; with others of
+                    them I have been acquainted ; and some of them I don’t even yet know by sight. I
+                    took no charge whatever of their proceedings. In order that there might be no
+                    pretence for saying that truth was obstructed from fear, I gave a written
+                    protection to every person to say what he chose about or against me. The extent
+                    to which this was in some instances taken advantage of will probably not be soon
+                    forgotten by those who witnessed it.</p>
+                <p> After a severe and laborious investigation of about six weeks, the result is
+                    contained in the following report, which was put into my hands last night. It is
+                    signed by every member of the Committee except one, who ceased to act long
+                    before the evidence was completed.</p>
+                <p> I cannot be supposed to be a candid judge of my own case<ref target="#n08"/>, and therefore it is
+                    extremely probable that any opinion of mine on the last view adopted by the
+                    Committee is incorrect, and theirs right. If it be so, I most willingly submit
+                    to the censure they have inflicted, and shall hold it my duty to profit from it
+                    by due care hereafter. My consolation is, that I have at least not been
+                    obstinate in my errors,<ref target="#n09"/> and that no sanction has ever been given in any fair
+                    quarter to the more serious imputations by which it has been the interest of
+                    certain persons to assail me. Candid men will judge of me according to the
+                    situation in which I was placed at the time<ref target="#n10"/>, and not according to the wisdom
+                    which has unexpectedly been acquired since.</p>
+                <p> This is the very first time that I have ever made any statement to the public in
+                    my own vindication, and it shall be the last. It would be unjust to the authors
+                    of the former calumnies to suppose that they would not renew them now. I can
+                    only assure them that, in so far as I am concerned, they will renew them in
+                    vain.</p>
+                <closer>
+                    <salute> I have the honour to be, &#38;c. &#38;c.</salute>
+                    <signed> R. Knox. </signed>
+                    <address>
+                        <addrLine>Edinburgh,</addrLine>
+                        <addrLine> 10, Surgeon's Square</addrLine>
+                    </address>
+                    <date when="1829-03-17">17th, March 1829</date>
+                    <!-- Choices were made -->
+                </closer>
+            </div1>
+            <note type="editorial" xml:id="n01">The Caledonian Mercury was a Scottish newspaper most
+                known for its literary criticism with forays into the political, which
+                contemporaneously covered the proceedings of the Burke and Hare murder trials as
+                they were ongoing in 1828. </note>
+            <note type="editorial" xml:id="n02">Several sources corroborate the sheer numbers if not
+                the admiration Knox received from his students as a capable anatomy instructor, not
+                the least of which includes Henry Lonsdale--who collected and published Knox’s
+                writings in an attempt to exonerate his teacher. While Lonsdale’s attempt is a
+                well-meaning one, it is poorly contextualized and bereft of nuance at best (Lonsdale
+                82-88).</note>
+            <note type="editorial" xml:id="n03">There is a certain distinction to be made here, in
+                that Knox is both correct and incorrect about what he posits to be true. Many
+                surgeons and anatomists alike complained of the nonexistent legal avenues by which
+                cadavers could be procured for dissection; there were hospitals and hanged men, but
+                the numbers simply were not enough to supply training materials for all aspiring
+                medical professionals. However, this did not mean that all doctors/anatomists took
+                in corpses without a single thought as to their origins; Christison noted as much
+                during the Burke and Hare police investigation when he asked Knox how the most
+                recent body delivered by the two men was in such pristine and untouched
+                condition--bereft of all the usual signs of acquisition via body snatching
+                (Richardson 141).</note>
+            <note type="editorial" xml:id="n04"> It is incredibly unlikely that public sentiment
+                would have ever pivoted in his favor: “failure of the law to investigate Knox’s role
+                in the multiple murders had provoked widespread resentment and disbelief”
+                (Richardson 137). The working class had not failed to notice the double standard in
+                the current legal system, in which impoverished people were persecuted on the
+                smallest infractions--or the fact that Burke and Hare’s victims had all been
+                vulnerable poor people as well. </note>
+            <note type="editorial" xml:id="n05"> The implication that Knox was a passive party in
+                the Burke and Hare murders is genuinely false. He was, in fact, central to the
+                outcome of the proceedings. Most know that Hare was able to escape the death
+                sentence because he “turned King’s evidence, convicting his confederate [Burke], who
+                was hanged and publicly dissected” (Richardson 133). However, this was only possible
+                because the prosecution could only offer Hare immunity on the basis of Knox’s
+                destruction--and therefore lack--of evidence. “Burke and his wife Nelly stood trial
+                for the death of the last victim, Mary Docherty, only” because her remains were
+                found and immediately reported to the police. In addition, as indicated several
+                times in the explanatory essay above, many people had already caught on to Knox’s
+                misconduct, and condemned him outright; to say nothing of the countless enemies he
+                made of his colleagues.</note>
+            <note type="editorial" xml:id="n06"> Knox was hardly the only target of such criticism;
+                public displeasure with body-snatching and the existence of resurrection men was
+                commonplace and frequently directed at medical personnel and adjacent professions.
+                Much of public outrage stemmed from his clear complicity in this very public and
+                egregious case, his general indifference to human life, and the lack of justice in
+                the wake of his clear complicity. If anything, his public exoneration was likely a
+                significant impetus for what would be a string of riots and vicious attacks on
+                doctors as soon as the murder trials ended in 1829 (Dittmer and Raine 114-116).
+                Furthermore, this outrage was not consigned to the poor alone; many other doctors
+                also disavowed Knox’s crimes (Richardson 137).</note>
+            <note type="editorial" xml:id="n07"> In the wake of the illegitimate investigation into
+                Knox’s culpability in regards to the Burke and Hare murders, the entirety of
+                Edinburgh was in an uproar--not what one might be able to call hardly noticeable.
+                There was an effigy gathering, and not only that, they forewent burning the effigy
+                explicitly created to look like Knox in favor of symbolically dismembering it in
+                front of his house. There can be no doubt the implication inherent in this choice,
+                as the public had been clamoring for proper justice--that they wanted him and Hare
+                to be “hanged and publicly dissected” just as Burke was (Richardson 133, 138). There
+                is also something to be said of his rhetoric here in “I allowed them to go on,”
+                conflating a rightfully angry public with a misbehaving child; suggesting Knox’s
+                real incapacity or unwillingness to consider the seriousness of what he had
+                enabled.</note>
+            <note type="editorial" xml:id="n08"> This self-diminishing and harmless tone adds insult
+                to injury in the face of his known deeds. Furthermore, the book in which it was
+                first published--with the intent to herald Knox’s greatness--was published fifty
+                years after the Burke and Hare murder trials had ended in 1870. While it is likely
+                many people knew this false presentation of Knox’s innocence for what it was, the
+                lack of contextualization does run the risk of younger readers taking in Knox’s
+                words based on surface level information. Furthermore, this letter is immediately
+                followed by the official documentation of the Committee’s decision to absolve Knox
+                of any charges. While there is enough dissonance to suggest more digging is
+                necessary to determine what happened, I do think it invites readers to believe in
+                Lonsdale’s claims in accordance with general reliance on the trustworthiness of
+                court-approved documents. </note>
+            <note type="editorial" xml:id="n09"> His refusal to contribute anything to the
+                proceedings of the murder trials and earnestly address public discontent suggest
+                otherwise. There is no point within the vicissitudes of his dismantled career or
+                active disgust from his peers/the public that he admits to being at the very least
+                negligent about his responsibilities in vetting acquired corpses, much less any
+                acceptance of partial guilt in the murder of innocent people.</note>
+            <note type="editorial" xml:id="n10"> Interestingly, removal from the situation over time
+                has created a few attempts to redeem Knox, each one on the basis of his importance
+                to science. There is Henry Lonsdale’s entire book dedicated to his life and
+                writings, in which a persistent rallying to the defense of his teacher runs
+                throughout its pages. Additionally, one such author in 2010 attempted to redeem him
+                on the basis of his foresight into the process of rapid evolution and related
+                anatomical/naturalist insight. That being said, one must notice the refusal to
+                engage with the fear and distress his actions--no matter if they were a degree
+                removed from murder by his own hands--contributed to the landscape of medical
+                immorality. Furthermore, his indirect incitement of the Anatomy Act of 1832 and the
+                New Poor Law of 1834 would only antagonize the working class to an explosion of
+                fear.</note>
+        </body>
+    </text>
+
+
+
+</TEI>
